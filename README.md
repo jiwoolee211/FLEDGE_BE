@@ -98,7 +98,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Stack |
 | --- | --- |
@@ -109,7 +109,7 @@
 
 ---
 
-## 📂 Backend Structure
+## Backend Structure
 
 ```text
 FLEDGE_BE/
@@ -128,7 +128,7 @@ FLEDGE_BE/
 
 ---
 
-##  Run
+## Run
 
 ```bash
 git clone https://github.com/jiwoolee211/FLEDGE_BE.git
