@@ -19,7 +19,7 @@
 
 [🌐 **서비스 바로가기**](https://dwllch-fe.vercel.app/)
 &nbsp;&nbsp; | &nbsp;&nbsp;
-[📑 **발표자료 보기**](./docs/Fledge.pdf)
+[📑 **발표자료 보기**](./docs/Fledge_presentaion.pdf)
 
 <br/>
 
